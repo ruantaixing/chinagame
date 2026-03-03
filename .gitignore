@@ -1,0 +1,12 @@
+Library/
+Temp/
+Logs/
+.vsconfig
+.vs/
+
+obj
+Assembly-CSharp.csproj
+*.csproj
+EA_JuniorClass.sln
+debug.log
+UserSettings/EditorUserSettings.asset
